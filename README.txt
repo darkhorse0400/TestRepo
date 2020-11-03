@@ -4,7 +4,7 @@ Git OSX Installer
 
 https://github.com/timcharper/git_osx_installer/
 
-
+I MADE A CHANGE
 INSTALLATION
 ============
 
